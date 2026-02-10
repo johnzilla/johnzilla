@@ -19,7 +19,7 @@ I design and secure complex systems—connected vehicles, IoT, AI platforms. Cur
 
 ### Tech
 
-Rust • Python • Go • Bash • COBOL (yes, really)
+Rust • Python • Perl • COBOL (yes, really)
 
 ### Connect
 
