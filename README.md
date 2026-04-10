@@ -8,7 +8,7 @@ I design and secure complex systems—connected vehicles, IoT, AI platforms. Cur
 
 - [TrustEdge](https://github.com/TrustEdge-Labs/trustedge) – Secure-by-design framework for edge computing
 - [arbstr](https://github.com/johnzilla/arbstr) – Intelligent LLM routing and cost arbitrage for the Routstr decentralized marketplace
-- [honeyprompt](https://github.com/johnzilla/honeyprompt) - Terminal-first security tool detecting unsafe AI browsing agent behavior using honeypot pages and prompt-injection canaries
+- [honeyprompt](https://github.com/johnzilla/honeyprompt) - Detect unsafe AI browsing agent behavior using honeypot pages and prompt-injection canaries
 - [Chat Signal](https://github.com/ChatSignal/chat-signal) – Chrome extension for live stream chat analysis
 - [Three Good Sources](https://github.com/johnzilla/3goodsources) - Curated, cryptographically-signed source recommendations for AI agents
 
