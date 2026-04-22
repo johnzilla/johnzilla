@@ -4,7 +4,7 @@
 
 I design and secure complex, real-world systems — connected vehicles, IoT, mobile, cloud, and now AI agents. 
 
-Currently leading Product Security at **Bose**, where I drive security-by-design across hardware, firmware, apps, and cloud platforms. Previously built and scaled security programs at **Amazon (Alexa/Fire TV)**, **Uber (bug bounty + M&A)**, and **Ford (Connected Vehicle Red Team & IAM)**.
+Currently a Product Security leader at **Bose**, where I drive security-by-design across hardware, firmware, apps, and cloud platforms. Previously built and scaled security programs at **Amazon (Alexa/Fire TV)**, **Uber (bug bounty + M&A)**, and **Ford (Connected Vehicle Red Team & IAM)**.
 
 I believe security should accelerate delivery, not slow it down. That's why I ship practical open-source tools that solve nasty problems in AI safety, agent compliance, cryptographic trust, and supply-chain security.
 
