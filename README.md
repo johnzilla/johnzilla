@@ -1,27 +1,50 @@
-## John Turner
+# John Turner
 
-**Product Security Leader | Secure AI & Edge Systems | Open Source**
+**Product Security Leader | Secure AI & Edge Systems | Building Things That Actually Ship**
 
-I design and secure complex systems—connected vehicles, IoT, AI platforms. Currently leading product security at Bose. Building open-source tools for trusted device ecosystems and privacy-preserving architectures.
+I design and secure complex, real-world systems — connected vehicles, IoT, mobile, cloud, and now AI agents. 
 
-### What I'm Building
+Currently leading Product Security at **Bose**, where I drive security-by-design across hardware, firmware, apps, and cloud platforms. Previously built and scaled security programs at **Amazon (Alexa/Fire TV)**, **Uber (bug bounty + M&A)**, and **Ford (Connected Vehicle Red Team & IAM)**.
 
-- [TrustEdge](https://github.com/TrustEdge-Labs/trustedge) – Secure-by-design framework for edge computing
-- [arbstr](https://github.com/johnzilla/arbstr) – Intelligent LLM routing and cost arbitrage for the Routstr decentralized marketplace
-- [honeyprompt](https://github.com/johnzilla/honeyprompt) - Detect unsafe AI browsing agent behavior using honeypot pages and prompt-injection canaries
-- [Chat Signal](https://github.com/ChatSignal/chat-signal) – Chrome extension for live stream chat analysis
-- [Three Good Sources](https://github.com/johnzilla/3goodsources) - Curated, cryptographically-signed source recommendations for AI agents
+I believe security should accelerate delivery, not slow it down. That's why I ship practical open-source tools that solve nasty problems in AI safety, agent compliance, cryptographic trust, and supply-chain security.
 
-### Background
+### What I'm Building Now (Featured Projects)
 
-- Built and led red teams, bug bounty programs, and product security orgs at Bose, Ford, Uber, and Amazon
-- Published author on network programming; co-inventor on mobile communications security patents
-- Contributing to open-source projects and standards for secure AI, privacy-preserving architectures, and trusted device ecosystems
+- **[honeyprompt](https://github.com/johnzilla/honeyprompt)** — Terminal-first tool for detecting unsafe AI browsing agent behavior using honeypot pages and tiered prompt-injection canaries. Production-ready with TUI monitoring, CI integration, Docker deployment, and verifiable reports. [Live demo → honeyprompt.sh](https://honeyprompt.sh)
 
-### Tech
+- **[3goodsources](https://github.com/johnzilla/3goodsources)** — Cryptographically-signed source recommendations for AI agents (trust + supply chain security).
 
-Rust • Python • Perl • COBOL (yes, really)
+- **[sealedge](https://github.com/TrustEdge-Labs/sealedge)** — Cryptographic provenance for edge device data and software supply chains.
 
-### Connect
+- **[shipsecure](https://github.com/TrustEdge-Labs/shipsecure)** — Security scanning platform for AI-generated ("vibe-coded") applications.
 
-[johnturner.com](https://johnturner.com) • [LinkedIn](https://www.linkedin.com/in/johnturner313)
+- **[agent-dns-firewall](https://github.com/johnzilla/agent-dns-firewall)** — Lightweight in-process domain firewall for AI agents (SSRF protection).
+
+- **[blindjoin](https://github.com/johnzilla/blindjoin)** — Privacy-preserving Bitcoin CoinJoin using RSA blind signatures.
+
+Other active work includes secure LLM routing (**arbstr**), privacy-first NFC contact exchange (**pktap**), and more.
+
+### Professional Background Highlights
+
+- 20+ years delivering product security strategy, architecture, red teaming, and bug bounty programs at scale
+- Co-inventor, **US Patent #10412581** – Secure session communication between mobile device and base station
+- Co-author, *The Definitive Guide to Linux Network Programming* and *The Apache Tomcat Security Handbook*
+- CISSP since 2012
+- Passionate about mentoring teams, maturing security risk registers, and embedding practical "paved road" security architecture into fast-moving product organizations
+
+### Tech & Approach
+
+**Core**: Rust (preferred for secure systems), Python, TypeScript  
+**Focus**: Secure-by-design, AI agent safety, edge/IoT lifecycles, automation/tooling, cryptographic protocols, DevSecOps
+
+Open to collaboration on security tooling, especially anything that makes AI systems more trustworthy or helps teams ship safer products faster.
+
+---
+
+**Connect**  
+- [LinkedIn](https://www.linkedin.com/in/johnturner313)  
+- [Personal Site](https://johnturner.com)  
+- [X / Twitter](https://x.com/jturner)  
+- [Resume & Full Background](https://johnturner.com) (or attach your latest resume)
+
+Currently based in Michigan, USA. Available for senior Product Security / Security Architecture leadership conversations.
