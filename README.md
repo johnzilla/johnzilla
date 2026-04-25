@@ -30,7 +30,7 @@ Other active work includes secure LLM routing (**[arbstr](https://github.com/joh
 
 - 20+ years delivering product security strategy, architecture, red teaming, and bug bounty programs at scale
 - Co-inventor, **[US Patent #10412581](https://patents.google.com/patent/US10412581B2/en?oq=US+Patent+%2310412581)** – Secure session communication between mobile device and base station
-- Co-author, *The Definitive Guide to Linux Network Programming* and *[The Apache Tomcat Security Handbook](http://www.amazon.com/gp/product/1861008309?ie=UTF8&tag=johnturnercom-20)*
+- Co-author, *[The Definitive Guide to Linux Network Programming](http://www.amazon.com/gp/product/1590593227?ie=UTF8&tag=johnturnercom-20)* and *[The Apache Tomcat Security Handbook](http://www.amazon.com/gp/product/1861008309?ie=UTF8&tag=johnturnercom-20)*
 - CISSP since 2012
 - Passionate about mentoring teams, maturing security risk registers, and embedding practical "paved road" security architecture into fast-moving product organizations
 
