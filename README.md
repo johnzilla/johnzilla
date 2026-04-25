@@ -10,7 +10,7 @@ I believe security should accelerate delivery, not slow it down. That's why I sh
 
 ### What I'm Building Now (Featured Projects)
 
-- **[honeyprompt](https://github.com/johnzilla/honeyprompt)** — Terminal-first tool for detecting unsafe AI browsing agent behavior using honeypot pages and tiered prompt-injection canaries. Production-ready with TUI monitoring, CI integration, Docker deployment, and verifiable reports. [Live demo → honeyprompt.sh](https://honeyprompt.sh)
+- **[honeyprompt](https://github.com/johnzilla/honeyprompt)** — Terminal-first tool for detecting unsafe AI browsing agent behavior using honeypot pages and tiered prompt-injection canaries. Production-ready with TUI monitoring, CI integration, Docker deployment, and verifiable reports. [Live demo → honeyprompt.sh](https://honeyprompt.sh) | [Dashboard → honeyprompt.dev](https://honeyprompt.dev)
 
 - **[3goodsources](https://github.com/johnzilla/3goodsources)** — Cryptographically-signed source recommendations for AI agents (trust + supply chain security).
 
