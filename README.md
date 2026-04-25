@@ -12,19 +12,17 @@ I believe security should accelerate delivery, not slow it down. That's why I sh
 
 - **[honeyprompt](https://github.com/johnzilla/honeyprompt)** — Terminal-first tool for detecting unsafe AI browsing agent behavior using honeypot pages and tiered prompt-injection canaries. Production-ready with TUI monitoring, CI integration, Docker deployment, and verifiable reports. [Live demo → honeyprompt.sh](https://honeyprompt.sh) | [Dashboard → honeyprompt.dev](https://honeyprompt.dev)
 
-- **[3goodsources](https://github.com/johnzilla/3goodsources)** — Cryptographically-signed source recommendations for AI agents (trust + supply chain security).
-
-- **[sealedge](https://github.com/TrustEdge-Labs/sealedge)** — Cryptographic provenance for edge device data and software supply chains.
+- **[sealedge](https://github.com/TrustEdge-Labs/sealedge)** — Cryptographic provenance for edge device data and software supply chains, because people who produce software artifacts deserve cryptographic provenance that no central authority can revoke
 
 - **[shipsecure](https://github.com/TrustEdge-Labs/shipsecure)** — Security scanning platform for AI-generated ("vibe-coded") applications.
 
-- **[agent-dns-firewall](https://github.com/johnzilla/agent-dns-firewall)** — Lightweight in-process domain firewall for AI agents (SSRF protection).
+- **[arbstr-node](https://github.com/johnzilla/arbstr-node)** — Full-stack inference marketplace deployment (arbstr core + arbstr vault + LND + Cashu mint), because people who want to run their own AI economy deserve the tools to do so.
+- 
+- **[blindjoin](https://github.com/johnzilla/blindjoin)** — Privacy-preserving Bitcoin CoinJoin using RSA blind signatures, because people who want financial privacy deserve tools that no intermediary can surveil.
 
-- **[blindjoin](https://github.com/johnzilla/blindjoin)** — Privacy-preserving Bitcoin CoinJoin using RSA blind signatures.
+- **[cipherpost](https://github.com/johnzilla/cipherpost)** —  Serverless, accountless CLI for secure cryptographic-material handoff and receipt over Mainline DHT via PKARR because people who want to hand secrets to other people deserve to do so without a server between them.
 
-- **[cipherpost](https://github.com/johnzilla/cipherpost)** —  Serverless, accountless CLI for secure cryptographic-material handoff and receipt over Mainline DHT via PKARR.
-
-Other active work includes secure LLM routing (**[arbstr](https://github.com/johnzilla/arbstr)**), privacy-first NFC contact exchange (**[pktap](https://github.com/johnzilla/pktap)**), and more.
+Other active work includes cryptographically-signed source recommendations for AI agents (**[3goodsources](https://github.com/johnzilla/3goodsources)**), and privacy-first NFC contact exchange (**[pktap](https://github.com/johnzilla/pktap)**), and more.
 
 ### Professional Background Highlights
 
