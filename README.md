@@ -22,7 +22,7 @@ I believe security should accelerate delivery, not slow it down. That's why I sh
 
 - **[cipherpost](https://github.com/johnzilla/cipherpost)** —  Serverless, accountless CLI for secure cryptographic-material handoff and receipt over Mainline DHT via PKARR, because people who want to hand secrets to other people deserve to do so without a server between them.
 
-Other active work includes cryptographically-signed source recommendations for AI agents (**[3goodsources](https://github.com/johnzilla/3goodsources)**), and privacy-first NFC contact exchange (**[pktap](https://github.com/johnzilla/pktap)**), and more.
+Other active work includes cryptographically-signed source recommendations for AI agents (**[3goodsources](https://github.com/johnzilla/3goodsources)**), a privacy-first NFC contact exchange app (**[pktap](https://github.com/johnzilla/pktap)**), and more.
 
 ### Professional Background Highlights
 
