@@ -17,10 +17,10 @@ I believe security should accelerate delivery, not slow it down. That's why I sh
 - **[shipsecure](https://github.com/TrustEdge-Labs/shipsecure)** — Security scanning platform for AI-generated ("vibe-coded") applications.
 
 - **[arbstr-node](https://github.com/johnzilla/arbstr-node)** — Full-stack inference marketplace deployment (arbstr core + arbstr vault + LND + Cashu mint), because people who want to run their own AI economy deserve the tools to do so.
-- 
+
 - **[blindjoin](https://github.com/johnzilla/blindjoin)** — Privacy-preserving Bitcoin CoinJoin using RSA blind signatures, because people who want financial privacy deserve tools that no intermediary can surveil.
 
-- **[cipherpost](https://github.com/johnzilla/cipherpost)** —  Serverless, accountless CLI for secure cryptographic-material handoff and receipt over Mainline DHT via PKARR because people who want to hand secrets to other people deserve to do so without a server between them.
+- **[cipherpost](https://github.com/johnzilla/cipherpost)** —  Serverless, accountless CLI for secure cryptographic-material handoff and receipt over Mainline DHT via PKARR, because people who want to hand secrets to other people deserve to do so without a server between them.
 
 Other active work includes cryptographically-signed source recommendations for AI agents (**[3goodsources](https://github.com/johnzilla/3goodsources)**), and privacy-first NFC contact exchange (**[pktap](https://github.com/johnzilla/pktap)**), and more.
 
