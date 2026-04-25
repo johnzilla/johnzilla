@@ -22,6 +22,8 @@ I believe security should accelerate delivery, not slow it down. That's why I sh
 
 - **[blindjoin](https://github.com/johnzilla/blindjoin)** — Privacy-preserving Bitcoin CoinJoin using RSA blind signatures.
 
+- **[cipherpost](https://github.com/johnzilla/cipherpost)** —  Serverless, accountless CLI for secure cryptographic-material handoff and receipt over Mainline DHT via PKARR.
+
 Other active work includes secure LLM routing (**[arbstr](https://github.com/johnzilla/arbstr)**), privacy-first NFC contact exchange (**[pktap](https://github.com/johnzilla/pktap)**), and more.
 
 ### Professional Background Highlights
