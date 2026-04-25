@@ -42,9 +42,8 @@ Open to collaboration on security tooling, especially anything that makes AI sys
 ---
 
 **Connect**  
-- [LinkedIn](https://www.linkedin.com/in/johnturner313)  
 - [Personal Site](https://johnturner.com)  
+- [LinkedIn](https://www.linkedin.com/in/johnturner313)  
 - [X / Twitter](https://x.com/jturner)  
-- [Resume & Full Background](https://johnturner.com)
 
 Currently based in Michigan, USA. Available for senior Product Security / Security Architecture leadership conversations.
